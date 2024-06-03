@@ -9,7 +9,7 @@
 
 # 💻 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,cpp,dotnet,kotlin,html,js,mysql,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,cpp,dotnet,kotlin,html,js,css,mysql,visualstudio)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
