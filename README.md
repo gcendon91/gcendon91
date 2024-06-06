@@ -1,6 +1,5 @@
 # :wave: About Me:
-¡Hola! Soy Gonzalo Cendón y vivo en Buenos Aires, Argentina. <br>Estoy cursando las últimas materias de la Tecnicatura Superior en Análisis de Sistemas en ISTEA.<br>Actualmente, me estoy enfocando en el desarrollo mobile para Android, tengo conocimientos también en C#, JavaScript, C++, SQL Server, etc.
-
+¡Hola! Soy Gonzalo Cendón y vivo en Buenos Aires, Argentina. <br>Estoy cursando las últimas materias de la Tecnicatura Superior en Análisis de Sistemas en ISTEA.<br>Actualmente, me estoy enfocando en el desarrollo mobile para Android.
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalocendon/) 
