@@ -1,5 +1,17 @@
 # :wave: About Me:
-¡Hola! Soy Gonzalo Cendón y vivo en Buenos Aires, Argentina. <br>Estoy cursando las últimas materias de la Tecnicatura Superior en Análisis de Sistemas en ISTEA.<br>Actualmente, me estoy enfocando en el desarrollo mobile para Android.
+👋 Hi, I'm Gonzalo Cendón
+
+🚀 Currently working on: A private commercial Android App aimed at optimizing Nutritionists' workflow using Kotlin & Jetpack Compose.
+
+🛠 Tech Stack:
+
+Mobile: Android Native (Compose)
+
+Backend: C# / Firebase
+
+Tools: Git, Teamcenter APIs (Industrial exp)
+
+🌱 Focus: Transitioning from 12+ years of Industrial Software Automation to Mobile Development.
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalocendon/) 
