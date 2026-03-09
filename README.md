@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Portfolio & Apps
-> **[👉 CLICK AQUÍ para ver y descargar mis aplicaciones](https://gcendon91.github.io)** *He diseñado este Hub para que puedas probar mis APKs directamente sin navegar por el código.*
+> **[👉 CLICK AQUÍ para ver y descargar mis aplicaciones](https://gcendon91.github.io)** 
 
 ---
 
