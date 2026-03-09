@@ -1,33 +1,48 @@
-# :wave: About Me:
-👋 Hi, I'm Gonzalo Cendón
+# 👋 Hola, soy Gonzalo Cendón
 
-🚀 Currently working on: A private commercial Android App aimed at optimizing Nutritionists' workflow using Kotlin & Jetpack Compose.
+**De la Automatización Industrial al Desarrollo Mobile Nativo.** Con más de 12 años de experiencia desarrollando soluciones de software en entornos industriales, hoy enfoco mi capacidad analítica y técnica en crear experiencias móviles robustas, escalables y centradas en el usuario con **Kotlin** y **Jetpack Compose**.
 
-🛠 Tech Stack:
+---
 
-Mobile: Android Native (Compose)
+## 🚀 Portfolio & Apps
+> **[👉 CLICK AQUÍ para ver y descargar mis aplicaciones](https://gcendon91.github.io)** *He diseñado este Hub para que puedas probar mis APKs directamente sin navegar por el código.*
 
-Backend: C# / Firebase
+---
 
-Tools: Git, Teamcenter APIs (Industrial exp)
+## 🛠️ Proyectos Destacados (Public)
 
-🌱 Focus: Transitioning from 12+ years of Industrial Software Automation to Mobile Development.
+* **🎬 CineStack**: Explorador de cine moderno con TMDB API. Implementación completa de **MVVM**, **Room**, **DataStore** y navegación avanzada.
+* **📱 DolarARG**: Monitor de divisas en tiempo real. Un proyecto enfocado en **Networking (Retrofit)**, manejo de estados de UI y Clean Architecture.
 
-## 🌐 Contact:
+## 🏗️ Actualmente trabajando en:
+* **App Comercial (Privada)**: Optimizando flujos de trabajo para profesionales de la salud (Nutricionistas) mediante herramientas de productividad móviles.
+
+---
+
+## 💻 My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,cpp,mysql,firebase,git,html,css&perline=5)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats & Progress
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languajes" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcendon91&theme=vue-dark&hide_border=false" alt="Streak" />
+</p>
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gcendon91&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalocendon/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzacendon@gmail.com) 
-
-
-# 💻 Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,cpp,dotnet,kotlin,html,js,css,mysql,visualstudio&perline=5)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gcendon91&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gcendon91&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzacendon@gmail.com)
