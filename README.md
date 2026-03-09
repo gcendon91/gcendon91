@@ -27,14 +27,14 @@
 
 ## 📊 GitHub Stats & Progress
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gcendon91&theme=vue-dark&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gcendon91&theme=vue-dark&layout=compact&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gcendon91&theme=vue-dark&hide_border=false)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gcendon91&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gcendon91&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=gcendon91&theme=radical&no-frame=false&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=gcendon91&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
