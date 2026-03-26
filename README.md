@@ -13,6 +13,7 @@
 
 * **🎬 CineStack**: Explorador de cine moderno con TMDB API. Implementación completa de **MVVM**, **Room**, **DataStore** y navegación avanzada.
 * **📱 DolarARG**: Monitor de divisas en tiempo real. Un proyecto enfocado en **Networking (Retrofit)**, manejo de estados de UI y Clean Architecture.
+* **📦 Stock Master**: Sistema de inventario compartido en tiempo real para hogares. Construido con **Jetpack Compose** y **Firebase**, permite sincronizar despensas y listas de compras de forma colaborativa. Implementa **Google Credential Manager API** para un acceso seguro y una interfaz de diseño premium con temática de cocina.
 
 ## 🏗️ Actualmente trabajando en:
 * **App Comercial (Privada)**: Optimizando flujos de trabajo para profesionales de la salud (Nutricionistas) mediante herramientas de productividad móviles.
